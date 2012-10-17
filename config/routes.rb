@@ -1,4 +1,16 @@
 Devise::Application.routes.draw do
+  get "admin_pages/index"
+
+  get "home/index"
+
+  authenticated :user do
+    root :to => 'admin_pages#index'
+  end
+
+  root :to => "home#index"
+
+  devise_for :users
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
