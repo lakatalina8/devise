@@ -1,1 +1,9 @@
-<h1>Index page for admin</h1>
+<% if can? :manage, :all %>
+    <h3>You admin! Index page for admin</h3>
+<% else %>
+    <% if can? :read, :all %>
+        <h3>You can only read, you can not change the content!</h3>
+    <% else %>
+        <h3>You user, and dont have access for admin pages!</h3>
+    <% end %>
+<% end %>
