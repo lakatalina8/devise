@@ -1,0 +1,23 @@
+<h1>Listing tcategories</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @tcategories.each do |tcategory| %>
+  <tr>
+    <td><%= tcategory.name %></td>
+    <td>&nbsp;<%= link_to 'Show', tcategory %></td>
+    <td><%= link_to 'Edit', edit_tcategory_path(tcategory) %></td>
+    <td><%= link_to 'Destroy', tcategory, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Tcategory', new_tcategory_path %>

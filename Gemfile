@@ -17,3 +17,5 @@ gem "launchy", ">= 2.1.0", :group => :test
 gem "devise", ">= 2.1.0"
 gem "cancan"
 gem "rolify"
+#gem "paperclip", "~> 2.3"
+gem "paperclip", :git => "http://github.com/thoughtbot/paperclip.git"

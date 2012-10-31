@@ -1,4 +1,22 @@
 Devise::Application.routes.draw do
+  resources :graphics
+
+  resources :texts
+
+  resources :contacts
+
+  resources :contents
+
+  resources :join_tochka_tcategories
+
+  resources :tcategories
+
+  resources :tochkas
+
+  resources :data
+
+  resources :categories
+
   get "admin_pages/index"
 
   get "home/index"

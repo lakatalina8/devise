@@ -1,0 +1,29 @@
+<%= form_for(@graphic,:html => { :multipart => true }) do |f| %>
+  <% if @graphic.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@graphic.errors.count, "error") %> prohibited this graphic from being saved:</h2>
+
+      <ul>
+      <% @graphic.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :content_id %><br />
+    <%= f.number_field :content_id %>
+  </div>
+  <p>
+    <label>Photo:</label>  <br />
+    <%= image_tag @graphic.photo.url(:small) %>
+  </p>
+  <div class="field">
+    <label>Edit photo:</label> <br />
+    <%= f.file_field :photo %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
