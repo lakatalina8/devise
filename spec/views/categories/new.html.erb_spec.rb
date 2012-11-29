@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "categories/new" do
+describe "new_categories/new" do
   before(:each) do
-    assign(:category, stub_model(Category,
+    assign(:new_category, stub_model(NewCategory,
       :name => "MyString"
     ).as_new_record)
   end

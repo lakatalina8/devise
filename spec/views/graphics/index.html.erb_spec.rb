@@ -4,10 +4,10 @@ describe "graphics/index" do
   before(:each) do
     assign(:graphics, [
       stub_model(Graphic,
-        :content_id => 1
+        :context_element_id => 1
       ),
       stub_model(Graphic,
-        :content_id => 1
+        :context_element_id => 1
       )
     ])
   end

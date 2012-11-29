@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "data/index" do
+describe "new_items/index" do
   before(:each) do
-    assign(:data, [
+    assign(:new_items, [
       stub_model(Datum,
         :name => "Name",
         :category_id => 1
@@ -14,7 +14,7 @@ describe "data/index" do
     ])
   end
 
-  it "renders a list of data" do
+  it "renders a list of new_items" do
     render
     # Run the generator again with the --webrat flag if you want to use webrat matchers
     assert_select "tr>td", :text => "Name".to_s, :count => 2

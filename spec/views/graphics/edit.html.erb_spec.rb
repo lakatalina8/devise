@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "graphics/edit" do
   before(:each) do
     @graphic = assign(:graphic, stub_model(Graphic,
-      :content_id => 1
+      :context_element_id => 1
     ))
   end
 

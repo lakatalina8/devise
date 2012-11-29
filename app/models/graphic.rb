@@ -1,5 +1,5 @@
 class Graphic < ActiveRecord::Base
-  belongs_to :content
+  belongs_to :gallery
   has_attached_file :photo, :styles => { :small => "150x150>", :medium => "300x300>"},
                     :url  => "/assets/graphics/:id/:style/:basename.:extension",
                     :path => ":rails_root/public/assets/graphics/:id/:style/:basename.:extension"

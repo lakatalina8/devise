@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Point:</b>
+  <%= @join_point_category.point_id %>
+</p>
+
+<p>
+  <b>Point_category:</b>
+  <%= @join_point_category.point_category_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_join_point_category_path(@join_point_category) %> |
+<%= link_to 'Back', join_point_categories_path %>

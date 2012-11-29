@@ -4,11 +4,11 @@ describe "texts/index" do
   before(:each) do
     assign(:texts, [
       stub_model(Text,
-        :content_id => 1,
+        :context_element_id => 1,
         :text_data => "MyText"
       ),
       stub_model(Text,
-        :content_id => 1,
+        :context_element_id => 1,
         :text_data => "MyText"
       )
     ])

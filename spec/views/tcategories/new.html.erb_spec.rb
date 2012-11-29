@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "tcategories/new" do
+describe "point_categories/new" do
   before(:each) do
-    assign(:tcategory, stub_model(Tcategory,
+    assign(:point_category, stub_model(PointCategory,
       :name => "MyString"
     ).as_new_record)
   end

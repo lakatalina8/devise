@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "tcategories/edit" do
+describe "point_categories/edit" do
   before(:each) do
-    @tcategory = assign(:tcategory, stub_model(Tcategory,
+    @point_category = assign(:point_category, stub_model(PointCategory,
       :name => "MyString"
     ))
   end
@@ -11,7 +11,7 @@ describe "tcategories/edit" do
     render
 
     # Run the generator again with the --webrat flag if you want to use webrat matchers
-    assert_select "form", :action => tcategories_path(@tcategory), :method => "post" do
+    assert_select "form", :action => tcategories_path(@point_category), :method => "post" do
       assert_select "input#tcategory_name", :name => "tcategory[name]"
     end
   end

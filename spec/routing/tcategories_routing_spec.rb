@@ -1,34 +1,34 @@
 require "spec_helper"
 
-describe TcategoriesController do
+describe PointCategoriesController do
   describe "routing" do
 
     it "routes to #index" do
-      get("/tcategories").should route_to("tcategories#index")
+      get("/point_categories").should route_to("point_categories#index")
     end
 
     it "routes to #new" do
-      get("/tcategories/new").should route_to("tcategories#new")
+      get("/point_categories/new").should route_to("point_categories#new")
     end
 
     it "routes to #show" do
-      get("/tcategories/1").should route_to("tcategories#show", :id => "1")
+      get("/point_categories/1").should route_to("point_categories#show", :id => "1")
     end
 
     it "routes to #edit" do
-      get("/tcategories/1/edit").should route_to("tcategories#edit", :id => "1")
+      get("/point_categories/1/edit").should route_to("point_categories#edit", :id => "1")
     end
 
     it "routes to #create" do
-      post("/tcategories").should route_to("tcategories#create")
+      post("/point_categories").should route_to("point_categories#create")
     end
 
     it "routes to #update" do
-      put("/tcategories/1").should route_to("tcategories#update", :id => "1")
+      put("/point_categories/1").should route_to("point_categories#update", :id => "1")
     end
 
     it "routes to #destroy" do
-      delete("/tcategories/1").should route_to("tcategories#destroy", :id => "1")
+      delete("/point_categories/1").should route_to("point_categories#destroy", :id => "1")
     end
 
   end

@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "contacts/new" do
   before(:each) do
     assign(:contact, stub_model(Contact,
-      :content_id => 1,
+      :context_element_id => 1,
       :contact_data => "MyText"
     ).as_new_record)
   end

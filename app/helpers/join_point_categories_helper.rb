@@ -1,0 +1,2 @@
+module JoinPointCategoriesHelper
+end

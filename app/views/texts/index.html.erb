@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>Content</th>
+    <th>Context element</th>
     <th>Text data</th>
     <th></th>
     <th></th>
@@ -11,7 +11,7 @@
 
 <% @texts.each do |text| %>
   <tr>
-    <td><%= text.content_id %></td>
+    <td><%= text.context_element_id %></td>
     <td><%= text.text_data %></td>
     <td> &nbsp;<%= link_to 'Show', text %></td>
     <td><%= link_to 'Edit', edit_text_path(text) %></td>

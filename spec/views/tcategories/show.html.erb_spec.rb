@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "tcategories/show" do
+describe "point_categories/show" do
   before(:each) do
-    @tcategory = assign(:tcategory, stub_model(Tcategory,
+    @point_category = assign(:point_category, stub_model(PointCategory,
       :name => "Name"
     ))
   end

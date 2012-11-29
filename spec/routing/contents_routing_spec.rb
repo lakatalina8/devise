@@ -1,34 +1,34 @@
 require "spec_helper"
 
-describe ContentsController do
+describe ContextElementsController do
   describe "routing" do
 
     it "routes to #index" do
-      get("/contents").should route_to("contents#index")
+      get("/context_elements").should route_to("context_elements#index")
     end
 
     it "routes to #new" do
-      get("/contents/new").should route_to("contents#new")
+      get("/context_elements/new").should route_to("context_elements#new")
     end
 
     it "routes to #show" do
-      get("/contents/1").should route_to("contents#show", :id => "1")
+      get("/context_elements/1").should route_to("context_elements#show", :id => "1")
     end
 
     it "routes to #edit" do
-      get("/contents/1/edit").should route_to("contents#edit", :id => "1")
+      get("/context_elements/1/edit").should route_to("context_elements#edit", :id => "1")
     end
 
     it "routes to #create" do
-      post("/contents").should route_to("contents#create")
+      post("/context_elements").should route_to("context_elements#create")
     end
 
     it "routes to #update" do
-      put("/contents/1").should route_to("contents#update", :id => "1")
+      put("/context_elements/1").should route_to("context_elements#update", :id => "1")
     end
 
     it "routes to #destroy" do
-      delete("/contents/1").should route_to("contents#destroy", :id => "1")
+      delete("/context_elements/1").should route_to("context_elements#destroy", :id => "1")
     end
 
   end

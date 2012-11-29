@@ -1,5 +1,5 @@
 class FixColumnName < ActiveRecord::Migration
   def change
-    rename_column :contents, :data_id, :datum_id
+    rename_column :context_elements, :data_id, :datum_id
   end
 end

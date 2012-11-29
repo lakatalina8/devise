@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe "data/new" do
+describe "new_items/new" do
   before(:each) do
-    assign(:datum, stub_model(Datum,
+    assign(:new_item, stub_model(Datum,
       :name => "MyString",
       :category_id => 1
     ).as_new_record)

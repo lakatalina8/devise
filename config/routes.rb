@@ -1,21 +1,24 @@
 Devise::Application.routes.draw do
+
+  resources :galleries
+
   resources :graphics
 
   resources :texts
 
   resources :contacts
 
-  resources :contents
+  resources :context_elements
 
-  resources :join_tochka_tcategories
+  resources :join_point_categories
 
-  resources :tcategories
+  resources :point_categories
 
-  resources :tochkas
+  resources :points
 
-  resources :data
+  resources :new_items
 
-  resources :categories
+  resources :new_categories
 
   get "admin_pages/index"
 

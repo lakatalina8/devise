@@ -1,0 +1,25 @@
+<%= form_for(@context_element) do |f| %>
+  <% if @context_element.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@context_element.errors.count, "error") %> prohibited this content from being saved:</h2>
+
+      <ul>
+      <% @context_element.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :point_id %><br />
+    <%= f.number_field :point_id %>
+  </div>
+  <div class="field">
+    <%= f.label :new_item_id %><br />
+    <%= f.number_field :new_item_id %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

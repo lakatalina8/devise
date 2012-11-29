@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "texts/new" do
   before(:each) do
     assign(:text, stub_model(Text,
-      :content_id => 1,
+      :context_element_id => 1,
       :text_data => "MyText"
     ).as_new_record)
   end

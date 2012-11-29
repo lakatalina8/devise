@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <th>Content</th>
+    <th>Gallery</th>
 
     <th>Photo</th>
   </tr>
 
 <% @graphics.each do |graphic| %>
   <tr>
-    <td><%= graphic.content_id %></td>
+    <td><%= graphic.gallery_id %></td>
     <td><%= image_tag graphic.photo.url(:small) %></td>
     <td><%= link_to 'Show', graphic %></td>
     <td><%= link_to 'Edit', edit_graphic_path(graphic) %></td>

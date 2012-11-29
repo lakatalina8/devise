@@ -1,34 +1,34 @@
 require "spec_helper"
 
-describe TochkasController do
+describe PointsController do
   describe "routing" do
 
     it "routes to #index" do
-      get("/tochkas").should route_to("tochkas#index")
+      get("/points").should route_to("points#index")
     end
 
     it "routes to #new" do
-      get("/tochkas/new").should route_to("tochkas#new")
+      get("/points/new").should route_to("points#new")
     end
 
     it "routes to #show" do
-      get("/tochkas/1").should route_to("tochkas#show", :id => "1")
+      get("/points/1").should route_to("points#show", :id => "1")
     end
 
     it "routes to #edit" do
-      get("/tochkas/1/edit").should route_to("tochkas#edit", :id => "1")
+      get("/points/1/edit").should route_to("points#edit", :id => "1")
     end
 
     it "routes to #create" do
-      post("/tochkas").should route_to("tochkas#create")
+      post("/points").should route_to("points#create")
     end
 
     it "routes to #update" do
-      put("/tochkas/1").should route_to("tochkas#update", :id => "1")
+      put("/points/1").should route_to("points#update", :id => "1")
     end
 
     it "routes to #destroy" do
-      delete("/tochkas/1").should route_to("tochkas#destroy", :id => "1")
+      delete("/points/1").should route_to("points#destroy", :id => "1")
     end
 
   end

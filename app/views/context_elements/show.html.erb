@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Point:</b>
+  <%= @context_element.point_id %>
+</p>
+
+<p>
+  <b>News:</b>
+  <%= @context_element.new_item_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_context_element_path(@context_element) %> |
+<%= link_to 'Back', context_elements_path %>
