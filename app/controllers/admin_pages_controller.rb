@@ -1,8 +1,15 @@
 class AdminPagesController < ApplicationController
-  def index
-  end
-  #load_and_authorize_resource
+ #before_filter :authenticate_user!
+ # before_filter :only_allow_admin, :only => [ :index ]
 
-# comments_controller.rb possibility
-#load_and_authorize_resource :through => :admin_page
+  def index
+   # @current_user = User.find(params[:id])
+  end
+
+  #private
+  #
+  #def only_allow_admin
+  #  redirect_to root_path, :alert => 'Not authorized as an administrator.' unless user.has_role? :admin
+  #end
+
 end

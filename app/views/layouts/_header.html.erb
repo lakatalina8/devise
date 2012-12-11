@@ -1,0 +1,20 @@
+<header>
+  <%= link_to logo, root_path %>
+  <nav class="round">
+    <ul>
+      <li><%= link_to "Home", root_path %></li>
+      <% if signed_in? %>
+
+      <% end %>
+
+      <% if signed_in? %>
+          <li><%= link_to "Sign out", 'users/sign_out', :method => :delete %></li>
+      <% else %>
+          <li><%= link_to "Sign in", 'users/sign_in' %></li>
+      <% end %>
+    </ul>
+  </nav>
+</header>
+
+
+

@@ -1,5 +1,9 @@
 <% if can? :manage, :all %>
-    <h3>You admin! Index page for admin</h3>
+    <h3>Please choose the elements, which you want to change</h3>
+    <%= link_to "Points", 'points', :class => "points_button round" %>
+    <%= link_to "News", 'new_items', :class => "news_button round" %>
+    <%= link_to "Contex", 'context_elements', :class => "context_button round" %>
+    <%= link_to "Galleries", 'galleries', :class => "galleries_button round" %>
 <% else %>
     <% if can? :read, :all %>
         <h3>You can only read, you can not change the content!</h3>

@@ -1,155 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/views/layouts/application.html.erb" line="18" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d873721f-cb8e-4f63-a9ce-7d834a716a1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/new_categories_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/new_items_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/context_elements_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/join_point_categories_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/new_categories_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/point_categories_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/points_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/context_element.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/join_point_category.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/new_category.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/point_category.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/helpers/join_point_categories_helper_spec.rb" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\controllers\categories_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\controllers\data_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\helpers\categories_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\helpers\contents_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\helpers\join_tochka_tcategories_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\helpers\tcategories_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\helpers\tochkas_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\models\category.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\models\content.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\models\join_tochka_tcategory.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\models\tcategory.rb" afterPath="" />
-      <change type="DELETED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\helpers\join_tochka_tcategories_helper_spec.rb" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/buttons/icons/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/buttons/icons/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/buttons/icons/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/im.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/visited.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/icons/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/devise.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/buttons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/buttons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/fancy-type/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/fancy-type/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/link-icons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/rtl/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/plugins/rtl/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/blueprint/src/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/devise.iml" afterPath="$PROJECT_DIR$/.idea/devise.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/contact.rb" afterPath="$PROJECT_DIR$/app/models/contact.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/graphic.rb" afterPath="$PROJECT_DIR$/app/models/graphic.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/text.rb" afterPath="$PROJECT_DIR$/app/models/text.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/graphics/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/graphics/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/graphics/index.html.erb" afterPath="$PROJECT_DIR$/app/views/graphics/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/graphics/show.html.erb" afterPath="$PROJECT_DIR$/app/views/graphics/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/texts/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/texts/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/texts/index.html.erb" afterPath="$PROJECT_DIR$/app/views/texts/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/texts/show.html.erb" afterPath="$PROJECT_DIR$/app/views/texts/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/admin_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/admin_pages_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/admin_pages/index.html.erb" afterPath="$PROJECT_DIR$/app/views/admin_pages/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/context_elements/index.html.erb" afterPath="$PROJECT_DIR$/app/views/context_elements/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20121030105143_create_contacts.rb" afterPath="$PROJECT_DIR$/db/migrate/20121030105143_create_contacts.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20121030110527_fix_column_name.rb" afterPath="$PROJECT_DIR$/db/migrate/20121030110527_fix_column_name.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20121030113432_create_texts.rb" afterPath="$PROJECT_DIR$/db/migrate/20121030113432_create_texts.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/data_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/data_controller_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories/categories.rb" afterPath="$PROJECT_DIR$/spec/factories/categories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories/contents.rb" afterPath="$PROJECT_DIR$/spec/factories/contents.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories/data.rb" afterPath="$PROJECT_DIR$/spec/factories/data.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories/join_tochka_tcategories.rb" afterPath="$PROJECT_DIR$/spec/factories/join_tochka_tcategories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories/tcategories.rb" afterPath="$PROJECT_DIR$/spec/factories/tcategories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories/tochkas.rb" afterPath="$PROJECT_DIR$/spec/factories/tochkas.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/category_spec.rb" afterPath="$PROJECT_DIR$/spec/models/category_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/content_spec.rb" afterPath="$PROJECT_DIR$/spec/models/content_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/join_tochka_tcategory_spec.rb" afterPath="$PROJECT_DIR$/spec/models/join_tochka_tcategory_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/tcategory_spec.rb" afterPath="$PROJECT_DIR$/spec/models/tcategory_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/tochka_spec.rb" afterPath="$PROJECT_DIR$/spec/models/tochka_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/categories_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/categories_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/contents_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/contents_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/data_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/data_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/join_tochka_tcategories_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/join_tochka_tcategories_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/tcategories_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/tcategories_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/tochkas_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/tochkas_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routing/categories_routing_spec.rb" afterPath="$PROJECT_DIR$/spec/routing/categories_routing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routing/contents_routing_spec.rb" afterPath="$PROJECT_DIR$/spec/routing/contents_routing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routing/data_routing_spec.rb" afterPath="$PROJECT_DIR$/spec/routing/data_routing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routing/join_tochka_tcategories_routing_spec.rb" afterPath="$PROJECT_DIR$/spec/routing/join_tochka_tcategories_routing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routing/tcategories_routing_spec.rb" afterPath="$PROJECT_DIR$/spec/routing/tcategories_routing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routing/tochkas_routing_spec.rb" afterPath="$PROJECT_DIR$/spec/routing/tochkas_routing_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/categories/edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/categories/edit.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/categories/index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/categories/index.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/categories/new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/categories/new.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/categories/show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/categories/show.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/contacts/edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/contacts/edit.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/contacts/index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/contacts/index.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/contacts/new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/contacts/new.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/contacts/show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/contacts/show.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/data/edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/data/edit.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/data/index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/data/index.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/data/new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/data/new.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/data/show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/data/show.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/graphics/edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/graphics/edit.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/graphics/index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/graphics/index.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/graphics/new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/graphics/new.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/graphics/show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/graphics/show.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/tcategories/edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/tcategories/edit.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/tcategories/index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/tcategories/index.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/tcategories/new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/tcategories/new.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/tcategories/show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/tcategories/show.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/texts/edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/texts/edit.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/texts/index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/texts/index.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/texts/new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/texts/new.html.erb_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/views/texts/show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/texts/show.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\controllers\contents_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/context_elements_controller.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\controllers\join_tochka_tcategories_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/join_point_categories_controller.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\controllers\tcategories_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/point_categories_controller.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\controllers\tochkas_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/points_controller.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\models\datum.rb" afterPath="$PROJECT_DIR$/app/models/new_item.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\models\tochka.rb" afterPath="$PROJECT_DIR$/app/models/point.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\categories\_form.html.erb" afterPath="$PROJECT_DIR$/app/views/new_categories/_form.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\categories\edit.html.erb" afterPath="$PROJECT_DIR$/app/views/new_categories/edit.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\categories\index.html.erb" afterPath="$PROJECT_DIR$/app/views/new_categories/index.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\categories\new.html.erb" afterPath="$PROJECT_DIR$/app/views/new_categories/new.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\categories\show.html.erb" afterPath="$PROJECT_DIR$/app/views/new_categories/show.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\contents\_form.html.erb" afterPath="$PROJECT_DIR$/app/views/context_elements/_form.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\contents\edit.html.erb" afterPath="$PROJECT_DIR$/app/views/context_elements/edit.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\contents\index.html.erb" afterPath="$PROJECT_DIR$/app/views/context_elements/index.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\contents\new.html.erb" afterPath="$PROJECT_DIR$/app/views/context_elements/new.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\contents\show.html.erb" afterPath="$PROJECT_DIR$/app/views/context_elements/show.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\data\_form.html.erb" afterPath="$PROJECT_DIR$/app/views/new_items/_form.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\data\edit.html.erb" afterPath="$PROJECT_DIR$/app/views/new_items/edit.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\data\index.html.erb" afterPath="$PROJECT_DIR$/app/views/new_items/index.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\data\new.html.erb" afterPath="$PROJECT_DIR$/app/views/new_items/new.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\data\show.html.erb" afterPath="$PROJECT_DIR$/app/views/new_items/show.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\join_tochka_tcategories\_form.html.erb" afterPath="$PROJECT_DIR$/app/views/join_point_categories/_form.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\join_tochka_tcategories\edit.html.erb" afterPath="$PROJECT_DIR$/app/views/join_point_categories/edit.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\join_tochka_tcategories\index.html.erb" afterPath="$PROJECT_DIR$/app/views/join_point_categories/index.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\join_tochka_tcategories\new.html.erb" afterPath="$PROJECT_DIR$/app/views/join_point_categories/new.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\join_tochka_tcategories\show.html.erb" afterPath="$PROJECT_DIR$/app/views/join_point_categories/show.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tcategories\_form.html.erb" afterPath="$PROJECT_DIR$/app/views/point_categories/_form.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tcategories\edit.html.erb" afterPath="$PROJECT_DIR$/app/views/point_categories/edit.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tcategories\index.html.erb" afterPath="$PROJECT_DIR$/app/views/point_categories/index.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tcategories\new.html.erb" afterPath="$PROJECT_DIR$/app/views/point_categories/new.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tcategories\show.html.erb" afterPath="$PROJECT_DIR$/app/views/point_categories/show.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tochkas\_form.html.erb" afterPath="$PROJECT_DIR$/app/views/points/_form.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tochkas\edit.html.erb" afterPath="$PROJECT_DIR$/app/views/points/edit.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tochkas\index.html.erb" afterPath="$PROJECT_DIR$/app/views/points/index.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tochkas\new.html.erb" afterPath="$PROJECT_DIR$/app/views/points/new.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\app\views\tochkas\show.html.erb" afterPath="$PROJECT_DIR$/app/views/points/show.html.erb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\controllers\categories_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/new_categories_controller_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\controllers\contents_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/context_elements_controller_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\controllers\join_tochka_tcategories_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/join_point_categories_controller_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\controllers\tcategories_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/point_categories_controller_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\controllers\tochkas_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/points_controller_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\helpers\categories_helper_spec.rb" afterPath="$PROJECT_DIR$/spec/helpers/context_elements_helper_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\helpers\contents_helper_spec.rb" afterPath="$PROJECT_DIR$/spec/helpers/new_categories_helper_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\helpers\tcategories_helper_spec.rb" afterPath="$PROJECT_DIR$/spec/helpers/point_categories_helper_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\helpers\tochkas_helper_spec.rb" afterPath="$PROJECT_DIR$/spec/helpers/points_helper_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\contents\edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/context_elements/edit.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\contents\index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/context_elements/index.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\contents\new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/context_elements/new.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\contents\show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/context_elements/show.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\join_tochka_tcategories\edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/join_point_categories/edit.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\join_tochka_tcategories\index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/join_point_categories/index.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\join_tochka_tcategories\new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/join_point_categories/new.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\join_tochka_tcategories\show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/join_point_categories/show.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\tochkas\edit.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/points/edit.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\tochkas\index.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/points/index.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\tochkas\new.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/points/new.html.erb_spec.rb" />
-      <change type="MOVED" beforePath="D:\Web-programming\Ruby_on_rails\project\devise\spec\views\tochkas\show.html.erb_spec.rb" afterPath="$PROJECT_DIR$/spec/views/points/show.html.erb_spec.rb" />
     </list>
     <ignored path="devise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -171,8 +78,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="text.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/text.rb">
+      <file leaf-file-name="devise.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/devise.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="0" selection-end="231" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="point.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/point.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -180,8 +96,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
+      <file leaf-file-name="20121129070602_fix_point_2.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20121129070602_fix_point_2.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20121026130611_create_tochkas.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20121026130611_create_tochkas.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_pages.js.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin_pages.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -190,72 +135,9 @@
         </entry>
       </file>
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/galleries/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="23" selection-start="495" selection-end="495" vertical-scroll-proportion="-11.384615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/galleries/edit.html.erb">
+        <entry file="file://$PROJECT_DIR$/app/views/points/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/galleries/_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="27" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.384615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/graphics/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.3076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/graphics/_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="34" selection-start="129" selection-end="129" vertical-scroll-proportion="-1.3076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="devise" pinned="false" current="true" current-in-tab="true">
-        <entry file="model://devise">
-          <provider selected="true" editor-type-id="AssociationsFileEditorProvider">
-            <state>
-              <settings isFieldsVisible="true" isMigrationFieldsVisible="true" isTypicalFieldsVisible="false" isOwnFieldsVisible="false" isHandToolMode="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/galleries/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/galleries/show.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="110" selection-end="110" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -274,24 +156,31 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20121129103852_rename_context.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/context_elements_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/context_elements/edit.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/context_elements/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/context_elements/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/context_elements/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/texts/_form.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/texts/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/texts/show.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/context_element.rb" />
-        <option value="$PROJECT_DIR$/app/models/gallery.rb" />
-        <option value="$PROJECT_DIR$/app/models/graphic.rb" />
-        <option value="$PROJECT_DIR$/app/models/point.rb" />
-        <option value="$PROJECT_DIR$/app/views/galleries/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/galleries/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/admin_pages_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/context_elements/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css" />
+        <option value="$PROJECT_DIR$/app/views/admin_pages/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/routers/points_router.js.coffee" />
+        <option value="$PROJECT_DIR$/app/views/points/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/devise.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/admin_pages.js.coffee" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
@@ -411,7 +300,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="graphics" />
+              <option name="myItemId" value="points" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -429,14 +336,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -447,6 +384,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="devise" />
               <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -677,6 +624,10 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
     <list size="4">
@@ -720,17 +671,17 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5827703" sideWeight="0.41692308" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1976923" sideWeight="0.6773649" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21230769" sideWeight="0.6013514" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39864865" sideWeight="0.4969231" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32263514" sideWeight="0.57769233" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39864865" sideWeight="0.49769232" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.49076924" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5827703" sideWeight="0.41692308" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -789,115 +740,87 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/models/join_point_category.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="158" column="19" selection-start="2310" selection-end="2310" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/new_category.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/admin_pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="60" selection-start="88" selection-end="88" vertical-scroll-proportion="-0.65384614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/new_item.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+        <state line="22" column="29" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20121129065032_fix_point.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/point.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/point_category.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/role.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20121129070602_fix_point_2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/text.rb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20121026130611_create_tochkas.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/contact.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/points/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/galleries/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/devise.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="110" selection-end="110" vertical-scroll-proportion="-4.576923">
+        <state line="12" column="0" selection-start="0" selection-end="231" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/galleries/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin_pages.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/galleries/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="23" selection-start="495" selection-end="495" vertical-scroll-proportion="-11.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/galleries/edit.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/galleries/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="27" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/graphics/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/graphics/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="34" selection-start="129" selection-end="129" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="model://devise">
-      <provider selected="true" editor-type-id="AssociationsFileEditorProvider">
-        <state>
-          <settings isFieldsVisible="true" isMigrationFieldsVisible="true" isTypicalFieldsVisible="false" isOwnFieldsVisible="false" isHandToolMode="true" />
         </state>
       </provider>
     </entry>

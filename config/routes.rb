@@ -20,6 +20,10 @@ Devise::Application.routes.draw do
 
   resources :new_categories
 
+  match '/signup',  :to => 'users#sign_up'
+  match '/signin',  :to => 'sessions#new'
+  match '/signout', :to => 'sessions#destroy'
+
   get "admin_pages/index"
 
   get "home/index"
