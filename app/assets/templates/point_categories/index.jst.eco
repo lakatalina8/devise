@@ -1,0 +1,15 @@
+<h1>Point categories</h1>
+
+<form id="new_point_category">
+    <label>name:</br></label>
+    <input type="text" name="name" id="new_point_category_name">
+    <input type="submit" value="Add">
+</form>
+
+<ul id="pointCategory">
+</ul>
+
+<button id="create"><a href='/point_categories/new'>Create New</a></button>
+<button id="categories"><a href='/points'>Points</a></button>  </br>
+
+<a href="/points">Back</a>

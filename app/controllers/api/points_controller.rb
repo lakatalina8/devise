@@ -1,4 +1,4 @@
-class PointsController < ApplicationController
+class Api::PointsController < ApplicationController
   # GET /points
   # GET /points.json
   def index

@@ -1,0 +1,16 @@
+
+<h1>Points</h1>
+
+<% console.log(@points) %>
+
+<form id="new_point">
+    <label>name:</br></label>
+    <input type="text" name="title" id="new_point_name">
+    <input type="submit" value="Add">
+</form>
+
+<ul id="points">
+</ul>
+
+<button id="create"><a href='/points/new'>Create New</a></button>
+<button id="categories"><a href='/point_categories'>Categories</a></button>

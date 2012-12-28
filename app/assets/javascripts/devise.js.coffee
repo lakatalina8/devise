@@ -4,9 +4,13 @@ window.Devise =
   Views: {}
   Routers: {}
   initialize: ->
-    alert 'Hello from Backbone!'
-#    new Devise.Routers.Entries()
-#    Backbone.history.start()
+    new Devise.Routers.Points()
+    new Devise.Routers.Homes()
+    new Devise.Routers.NewItems()
+    new Devise.Routers.PointCategories()
+    new Devise.Routers.JoinPointCategories()
+    new Devise.Routers.ContextElements()
+    Backbone.history.start(pushState: true)
 
 $(document).ready ->
   Devise.initialize()

@@ -1,9 +1,135 @@
-.container {
-    width: 650px;
+body {
+    background-color: #fff9bc;
+    font-family: Verdana, Helvetica, Arial;
+    font-size: 14px;
 }
 
-body {
-    background: #ffffbf;
+a img {
+    border: none;
+}
+
+a {
+    color: #0000FF;
+}
+
+.clear {
+    clear: both;
+    height: 0;
+    overflow: hidden;
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #FFF;
+    padding: 20px 40px;
+    border: solid 1px black;
+    margin-top: 20px;
+}
+
+form input {
+    font-size: 20px;
+}
+form input[type='text'] {
+    width: 435px;
+}
+form textarea {
+    width: 435px;
+    height: 100px;
+}
+form input[type='submit'], #create, #categories {
+    -webkit-appearance: caret;
+    font-size: 14px;
+    font-size: 13px;
+    padding: 5px 10px 6px 10px;
+    font-weight: bold;
+    border: 1px solid #466A98;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    color: #FFF;
+    background: #24882B;
+    background: -webkit-gradient(linear, left top, left bottom, from(#32BE39), to(#247B28));
+    background: -moz-linear-gradient(top,  #32BE39,  #247B28);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#32BE39', endColorstr='#247B28');
+    text-decoration: none;
+    text-shadow: 0 -1px 0 #036;
+    text-align: middle;
+    vertical-align: top;
+}
+
+#categories {
+    float: right;
+    background: #003366;
+}
+
+#create, #categories{
+    margin: 20px auto;
+}
+
+#create a, #categories a{
+    color: #FFF;
+    text-decoration: none;
+}
+.delete {
+    color: #006400;
+    margin-top: -15px;
+    margin-right: -35px;
+    font-size: 10px;
+    text-align: right;
+}
+
+a {
+    margin-left: 5px;
+    text-decoration: none;
+    color: teal;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    border-top: solid 1px #CCC;
+    width: 457px;
+}
+
+li {
+    border-bottom: solid 1px #CCC;
+    padding: 10px 10px;
+    font-size: 16px;
+    position: relative;
+}
+li.list {
+    margin-right: 0px
+}
+
+a.points_button {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+    width: 190px;
+    color: #fff;
+    background: #38a0b9;
+    font-size: 150%;
+    font-weight: bold;
+    padding: 20px;
+
+}
+
+.round {
+    -moz-border-radius:    8px;
+    -webkit-border-radius: 8px;
+    border-radius:         8px;
 }
 
 header {

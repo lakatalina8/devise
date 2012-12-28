@@ -1,0 +1,4 @@
+<li class="list"><%= @news.get('name') %></li>
+
+<div class = "delete">delete</div>
+

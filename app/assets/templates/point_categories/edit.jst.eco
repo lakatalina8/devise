@@ -1,0 +1,12 @@
+<h1>Edit point category</h1>
+
+
+<form id="edit_point_category">
+    <label for='name'>Name</label></br>
+    <input name='name' type='text' id="edit_point_category_name" value= "<%= @model.attributes.name %>" /> </br>
+
+    <input type="submit" value="Edit">
+</form>
+
+
+<a href="/point_categories">Back</a>

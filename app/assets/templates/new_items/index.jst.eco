@@ -1,0 +1,12 @@
+<h1>News</h1>
+
+<form id="new_news1">
+    <label>name:</br></label>
+    <input type="text" name="name" id="new_news_name1">
+    <input type="submit" value="Add">
+</form>
+
+<ul id="news">
+</ul>
+
+<button id="create"><a href='/new_items/new'>Create New</a></button>

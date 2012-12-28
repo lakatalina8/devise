@@ -1,0 +1,14 @@
+<h1>Edit point</h1>
+
+<% console.log(@model) %>
+
+<form id="edit_point">
+    <label for='name'>Name:</label></br>
+    <input name='name' type='text' id="edit_point_name" value= "<%= @model.attributes.name %>" /> </br>
+
+    <input type="submit" value="Edit">
+    <button id="categories"><a href='/context_elements'>Context element</a></button>
+</form>
+
+
+<a href="/points">Back</a>

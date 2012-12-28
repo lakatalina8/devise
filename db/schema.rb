@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121129103852) do
+ActiveRecord::Schema.define(:version => 20121226052315) do
 
   create_table "contacts", :force => true do |t|
     t.integer  "context_element_id"
@@ -20,12 +20,17 @@ ActiveRecord::Schema.define(:version => 20121129103852) do
     t.datetime "updated_at",         :null => false
   end
 
+  add_index "contacts", ["context_element_id"], :name => "index_contacts_on_context_element_id"
+
   create_table "context_elements", :force => true do |t|
     t.integer  "point_id"
     t.integer  "new_item_id"
     t.datetime "created_at",  :null => false
     t.datetime "updated_at",  :null => false
   end
+
+  add_index "context_elements", ["new_item_id"], :name => "index_context_elements_on_new_item_id"
+  add_index "context_elements", ["point_id"], :name => "index_context_elements_on_point_id"
 
   create_table "galleries", :force => true do |t|
     t.integer  "context_element_id"
@@ -93,6 +98,8 @@ ActiveRecord::Schema.define(:version => 20121129103852) do
     t.datetime "created_at",         :null => false
     t.datetime "updated_at",         :null => false
   end
+
+  add_index "texts", ["context_element_id"], :name => "index_texts_on_context_element_id"
 
   create_table "users", :force => true do |t|
     t.string   "email",                  :default => "", :null => false

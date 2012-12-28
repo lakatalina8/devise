@@ -1,0 +1,4 @@
+<li class="list"><%= @point.get('name') %></li>
+
+<div class = "delete">delete</div>
+
